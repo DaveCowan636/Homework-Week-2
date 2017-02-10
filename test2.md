@@ -10,4 +10,4 @@
 
 `var Der = 20`
 
-![Image of my editor](C:\Users\Dave\Pictures\screenshot.jpg).
+![Image of my editor](https://github.com/DaveCowan636/Homework-Week-2/blob/master/screenshot.jpg)
